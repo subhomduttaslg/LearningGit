@@ -1,0 +1,2 @@
+Sample text added
+This is to check file edit functionality through git bash
